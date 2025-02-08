@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TMC5160A-TA-T")(type "KiCad")(uri "${KIPRJMOD}/libraries/TMC5160A-TA-T/footprints.pretty")(options "")(descr ""))
+  (lib (name "AOD4126")(type "KiCad")(uri "${KIPRJMOD}/libraries/AOD4126/footprints.pretty")(options "")(descr ""))
+)
